@@ -814,16 +814,6 @@ COMMON EXAM TRAPS — DATA INTEGRATION & INTEROPERABILITY
 
 ---
 
-### DAMA Wheel — Positioning of Data Integration & Interoperability
-
-*Source: DAMA International | CC BY-ND 4.0*
-
-![DAMA Wheel — Data Management Knowledge Areas](https://dama.org/wp-content/uploads/sites/2326/2025/04/x.png.webp)
-
-**Data Integration & Interoperability** in the DAMA Wheel: This KA spans all others — data must flow from where it is created (operational systems) to where it is used (analytics, reporting, AI/ML). Chapter 8 is the implementation of the integration architecture designed in Chapter 4. It connects Data Storage & Operations (Chapter 6, where data sits) to Data Warehousing & Business Intelligence (Chapter 11, where data is analysed) and Reference & Master Data (Chapter 10, which depends on integration to synchronise golden records).
-
----
-
 ## Chapter 8 at a Glance — One-Page Summary
 
 ```
